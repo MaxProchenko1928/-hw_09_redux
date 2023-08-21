@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-hw_09_redux/static/css/main.aaaf48ca.css",
+    "main.js": "/-hw_09_redux/static/js/main.3eec2557.js",
+    "index.html": "/-hw_09_redux/index.html",
+    "main.aaaf48ca.css.map": "/-hw_09_redux/static/css/main.aaaf48ca.css.map",
+    "main.3eec2557.js.map": "/-hw_09_redux/static/js/main.3eec2557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.3eec2557.js"
+  ]
+}
